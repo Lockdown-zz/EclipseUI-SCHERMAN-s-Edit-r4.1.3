@@ -1,0 +1,15 @@
+tag v3.1.2
+1c0191059aba86833653adc74ee4d46ffeb7be9b
+Xinhuan <xinhuan@pacific.net.sg>
+2011-05-06 09:05:57 +0800
+
+Tag release v3.1.2
+
+
+--------------------
+
+Xinhuan:
+	- Add PTR patch 4.2 compat code. Untested on PTR.
+	- Update version to v3.1.2
+	- Update version to 3.1.1b as a beta release.
+	- Attempt to fix issue where some players are unable to see any threat text on the bars until the current profile or TPS option is changed.
